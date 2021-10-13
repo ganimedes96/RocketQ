@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img alt="Rocket.Q" title="Rocket.Q" src="rocketq.png" width="220px" />
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +10,9 @@
 
 <br>
 
-
+<p align="center">
+  <img alt="Rocket.Q" src="capa.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
