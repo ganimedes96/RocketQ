@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/capa.png" width="100%">
+  <img alt="Rocket.Q" src=".github/image.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
